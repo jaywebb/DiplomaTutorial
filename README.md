@@ -1,6 +1,6 @@
 # DiplomaTutorial
 
 Welcome to this repo
-this is for demonstrating GitHub
+This is the testing branch
 
 
